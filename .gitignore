@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment or secret files
+.env
+data.js
+
+# Build/output folders
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
